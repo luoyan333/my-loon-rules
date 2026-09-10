@@ -14,7 +14,7 @@ payload:
   - 'DOMAIN-SUFFIX,api.xmancdn.com'
   - 'DOMAIN-SUFFIX,flowercloud.net'
   - 'DOMAIN-SUFFIX,api-flowercloud.com'
-  - 'DOMAIN-SUFFIX,aapi-huacloud.dev'
+  - 'DOMAIN-SUFFIX,api-huacloud.dev'
   - 'DOMAIN,ddns.oray.com'
   - 'DOMAIN,v4.66666.host'
   - 'DOMAIN,myip.ipip.net'
